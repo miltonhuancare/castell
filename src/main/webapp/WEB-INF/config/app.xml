@@ -24,5 +24,6 @@
         <property name="prefix" value="/WEB-INF/app/" />
         <property name="suffix" value=".jsp"/>
     </bean>
+    <task:annotation-driven/>
     
 </beans>
